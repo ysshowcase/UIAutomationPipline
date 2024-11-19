@@ -1,2 +1,2 @@
 # UIAutomationPipline
-This a sample of test automation framework 
+This is a sample of test automation framework 
